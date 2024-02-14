@@ -1,6 +1,6 @@
 # Langchain Task Template repo
 
-This is a template repo that is meant to be cloned/used whenever you are trying to use openai/langchain to optimize/do some task. Takes about three minutes to run.
+This is a template repo that is meant to be used whenever you are trying to use LangChain to automate some task with LLMs. This example takes about three minutes to run.
 
 # Best practices
 
