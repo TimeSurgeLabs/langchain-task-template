@@ -12,13 +12,17 @@ For each step you can try:
 * Asking chatgpt outright to do it in the form of a prompt, be sure to ask for its reasoning, encourage it, and include few shot prompting/examples, 
 * Iterate to make a part of it better
 * Rank output and cherry pick the best option
+
+# Install Dependencies
+- Python 3.11+
+- Poetry
+   - For installation, see their [official docs](https://python-poetry.org/docs/#installing-with-the-official-installer).
+
 # Installation
-
-put your .env file in place, it should be structured like example.env
-
-## Install Poetry
-
-See their [official docs](https://python-poetry.org/docs/#installing-with-the-official-installer).
+```sh
+poetry install --no-root
+cp example.env .env # put the proper env vars here
+```
 
 # Run the project
 
